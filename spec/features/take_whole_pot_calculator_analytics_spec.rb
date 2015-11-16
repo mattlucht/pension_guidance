@@ -1,8 +1,8 @@
 RSpec.feature 'Take whole pot calculator analytics', type: :feature, js: true do
-  let(:pot) { '100000' }
-  let(:income) { '7000' }
-  let(:pension) { '5000' }
-  let(:pension_invalid) { '5000000' }
+  let(:pot) { '100,000' }
+  let(:income) { '7,000' }
+  let(:pension) { '5,000' }
+  let(:pension_invalid) { '5,000,000' }
   let(:pension_frequency) { 'annually' }
   let(:pension_frequency_label) { 'Annual' }
 
@@ -24,13 +24,13 @@ RSpec.feature 'Take whole pot calculator analytics', type: :feature, js: true do
     perform_calculation
 
     expect(data_layer).to include(
-      'pot' => pot,
-      'income' => income,
-      'pension' => pension,
-      'pension_frequency' => pension_frequency,
+      'pot' => 100000,
+      'income' => 7000,
+      'pension' => 5000,
+      'pension_frequency' => 'annually',
       'valid' => true,
-      'pot_tax' => '23923.0',
-      'pot_received' => '76077.0'
+      'pot_tax' => 23923.00,
+      'pot_received' => 76077.0
     )
   end
 
