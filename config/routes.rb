@@ -34,6 +34,7 @@ Rails.application.routes.draw do
   end
 
   get 'guaranteed-income/results', controller: 'guaranteed_income_calculator', action: 'show'
+  get 'take-cash-in-chunks/results', controller: 'take_cash_in_chunks_calculator', action: 'show'
   get 'take-whole-pot/results', controller: 'take_whole_pot_calculator', action: 'show'
   get 'leave-pot-untouched/results', controller: 'leave_pot_untouched_calculator', action: 'show'
 
