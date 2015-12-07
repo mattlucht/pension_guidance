@@ -11,7 +11,7 @@ description: You can cash in your whole pension pot - 75% of that money is taxab
 
 You can take your whole pot as cash in one go - 25% is tax-free, the other 75% is taxable.
 
-You pay tax when you take money from your pot. This is because when you’re paying into your pension you get [tax relief](https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief) on your contributions.
+You pay tax when you take money from your pot. This is because when you’re paying into your pension you get tax relief on your contributions.
 
 Any money you receive from your pension provider will be paid to you with the tax already taken off.
 
@@ -57,7 +57,7 @@ At the end of the tax year HM Revenue and Customs will calculate how much tax yo
 
 Beware of [pension scams](/scams) contacting you unexpectedly about an investment or business opportunity that you’ve not spoken to them about before. You could lose all your money and face tax of up to 55% and extra fees.
 
-## Your next steps
+## Next steps
 
 Here are some next steps if you’re interested in taking your whole pot in one go:
 

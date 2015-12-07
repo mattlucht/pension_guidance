@@ -40,20 +40,20 @@ You can leave the money invested, eg while you’re working. Your pension pot co
 </div>
 {::options parse_block_html="true" /}
 
-## Tax when you leave your whole pot untouched
+## Tax
 
-As long as your money stays in your pension pot you don’t pay tax on it. You can still pay into it up to your [annual allowance](https://www.gov.uk/tax-on-your-private-pension/annual-allowance).
+As long as your money stays in your pension pot you don’t pay tax on it. You can still pay into it up to your annual allowance.
 
-Whatever money you leave in your pension pot you can [pass on](/when-you-die) tax free if you die before the age of 75.
+Whatever money you leave in your pension pot you can pass on tax free if you die before the age of 75.
 
-## Charges and investment risk
+## Charges
 
 Your provider may charge you administration fees for managing the fund after your selected retirement age.
 
 As with every investment the value of your pot could go up or down.
 
 
-## Your next steps
+## Next steps
 
 If you want to leave your pot untouched for a while, ask your pension provider the following questions:
 

@@ -13,7 +13,7 @@ You can take smaller sums of cash from your pot until it runs out. How much you 
 
 With this option the 25% tax free isn’t paid as one lump sum. Instead, you get it over time. Each time you take a chunk of money out 25% is tax free and the rest is taxable
 
-Your pension provider will take off the [tax you owe](/tax) before they pay you the cash.
+Your pension provider will take off the tax you owe before they pay you the cash.
 
 Some providers will charge you a fee to take cash out.
 
@@ -28,13 +28,13 @@ You don’t have any other income and this is below the Personal Allowance of £
 **You don’t pay tax on your cash.**
 $E
 
-Taking a large sum of cash from your pension pot could also affect [your entitlement to any benefits](/benefits).
+Taking a large sum of cash from your pension pot could also affect your entitlement to any benefits.
 
 Pension providers may describe this option as ‘Uncrystallised Funds Pension Lump Sum’ (UFPLS). Not all providers offer this option. If your provider doesn’t offer it, you can transfer your pot but you might have to pay a fee.
 
 {::options parse_block_html="false" /}
 <div class="calculator calculator--in-article calculator--take-cash-in-chunks js-calculator js-take-cash-in-chunks-calculator">
-  <h2 id="estimate-take-cash-in-chunks">Estimate how much you would get taking cash as chunks</h2>
+  <h2 id="estimate-take-cash-in-chunks">Estimate how much you would get</h2>
 
   <form action="/take-cash-in-chunks/results#estimate-take-cash-in-chunks" method="get">
     <div class="form-group">
@@ -97,7 +97,7 @@ If you have multiple pension pots, you can take chunks of cash from one and cont
 
 Your provider may also let you continue to pay into the pot you take cash from.
 
-## Your next steps
+## Next steps
 
 Here are some next steps if you’re interested in taking cash in chunks:
 

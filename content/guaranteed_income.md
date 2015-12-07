@@ -17,7 +17,7 @@ Once you’ve bought your annuity you only have a short period when you can stil
 
 {::options parse_block_html="false" /}
 <div class="calculator calculator--in-article calculator--guaranteed-income js-calculator js-guaranteed-income-calculator">
-  <h2 id="annuity-estimate">Estimate how much you would get from an annuity</h2>
+  <h2 id="annuity-estimate">Estimate how much you would get</h2>
 
   <form action="/guaranteed-income/results#annuity-estimate" method="get">
     <div class="form-group">
@@ -57,9 +57,9 @@ Once you’ve bought your annuity you only have a short period when you can stil
 </div>
 {::options parse_block_html="true" /}
 
-## Types of annuities
+## Annuities
 
-Types of annuities you can buy:
+The types of annuity you can get include:
 
 - single - only you get paid an income either for life or for a fixed number of years
 - joint - payments continue to your spouse/partner after you die
@@ -67,9 +67,9 @@ Types of annuities you can buy:
 - escalating - increases every year to reduce the effect of inflation
 - enhanced - if your health is bad you may get more money from your annuity
 
-## Tax-free lump sum with annuities
+## Tax-free lump sums
 
-If you decide to buy an annuity you can still take up to 25% of your pension pot tax free as cash. You could then, for example, buy the annuity with the remaining 75%. Under current pension rules you have to buy the annuity within 6 months or alternatively use one of the [other options](/pension-pot-options).
+If you decide to buy an annuity you can still take up to 25% of your pension pot tax free as cash. You could then, for example, buy the annuity with the remaining 75%. Under current pension rules you have to buy the annuity within 6 months or alternatively use one of the other options.
 
 ## How an annuity is calculated
 
@@ -81,11 +81,11 @@ How much income you get each year from an annuity depends on things like:
 - whether you want the annuity to pay out to someone after you die
 - your health and lifestyle
 
-You [pay tax on income from an annuity](/tax), just like you do on your salary.  You may also pay administration charges.
+You pay tax on income from an annuity, just like you do on your salary.  You may also pay administration charges.
 
-If the insurer you bought your annuity with goes bust the [Financial Services Compensation Scheme](http://www.fscs.org.uk/what-we-cover/) will cover you in full.
+If the insurer you bought your annuity with goes bust the Financial Services Compensation Scheme will cover you in full.
 
-## Your next steps
+## Next steps
 
 If you’re interested in buying an annuity you can:
 

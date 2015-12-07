@@ -50,7 +50,7 @@ Not all pension providers offer this option. If your provider doesn’t offer it
 </div>
 {::options parse_block_html="true" /}
 
-## How adjustable income works
+## How it works
 The provider you go with will offer you different investment funds with different risks. You pick the funds that are right for you and get a retirement income from your investments. You should think about how much you take out every year and how long you want your money to last.
 
 Alternatively, a financial adviser can create a plan with you for how to invest your money. They can advise you on how much you can take out to make the fund last as long as possible. An adviser will charge you for this.
@@ -60,7 +60,7 @@ Your provider is likely to charge you for running your funds and whenever you ge
 This option is also known as ‘flexi-access drawdown’.
 
 ## Tax with adjustable income
-The income you get from the fund is taxable. Your provider will pay you the income with any [tax due](/tax) already taken off.
+The income you get from the fund is taxable. Your provider will pay you the income with any tax due already taken off.
 
 {: .info-notice--adjustable-income}
 $E
@@ -68,7 +68,7 @@ $E
 You have a pot of £80,000 and take a tax-free lump sum of £20,000. This leaves you with £60,000 to invest into flexi-access. You get an income of £3,000 a year from your fund. If you pay 20% tax on this your provider pays you £2,400.
 $E
 
-If you take the 25% tax-free lump sum, under current pension rules you must buy your flexi-access product within 6 months or use one of the [other options](/pension-pot-options).
+If you take the 25% tax-free lump sum, under current pension rules you must buy your flexi-access product within 6 months or use one of the other options.
 
 Alternatively, you can move your pot gradually into flexi-access - you don’t have to move it all at once. Each time you move an amount you can take 25% tax free.
 
@@ -83,11 +83,11 @@ Once you start taking an income from your flexi-access fund this allowance goes 
 You can also pay into your flexi-access fund but you won’t get tax relief on these payments.
 
 ## Getting financial advice for adjustable income
-If you’re interested in this option you might want to [get financial advice](/shop-around) first. You should be aware that as with every investment there’s the risk that the value of your fund can go up or down.
+If you’re interested in this option you might want to get financial advice first. You should be aware that as with every investment there’s the risk that the value of your fund can go up or down.
 
-You can [leave your pot to someone](/when-you-die) when you die but they may have to pay tax on it.
+You can leave your pot to someone when you die but they may have to pay tax on it.
 
-## Your next steps
+## Next steps
 
 If you’re interested in getting an adjustable income you can:
 
