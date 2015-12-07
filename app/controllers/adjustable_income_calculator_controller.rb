@@ -23,5 +23,7 @@ class AdjustableIncomeCalculatorController < ApplicationController
     else
       @income = calculator.income
     end
+
+    return render partial: 'results' if request.xhr?
   end
 end

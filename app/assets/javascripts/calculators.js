@@ -1,16 +1,20 @@
 (function($) {
   'use strict';
 
-  var leavePotUntouchedCalculator = {
+  var calculators = {
     init: function() {
-      var $calculator = $('.js-leave-pot-untouched-calculator form');
+      var $calculator = $('.js-calculator form');
 
       $calculator.append('<div class="calculator__result" aria-live="polite"></div>');
 
       $calculator.on('submit', function(event) {
         event.preventDefault();
-        $.get('/leave-pot-untouched/results', $(this).serialize(), function(data) {
+        $.get($calculator.attr('action'), $(this).serialize(), function(data) {
           $('.calculator__result').html(data);
+
+          $('html, body').animate({
+              scrollTop: $calculator.find('input[type="submit"]').offset().top
+          }, 700);
 
           $('.calculator__result .btn-link').on('click', function(event) {
             event.preventDefault();
@@ -23,5 +27,5 @@
   };
 
   window.PWPG = window.PWPG || {};
-  window.PWPG.leavePotUntouchedCalculator = leavePotUntouchedCalculator;
+  window.PWPG.calculators = calculators;
 })(jQuery);

@@ -42,7 +42,7 @@ You [pay tax on income from an annuity](/tax), just like you do on your salary. 
 If the insurer you bought your annuity with goes bust the [Financial Services Compensation Scheme](http://www.fscs.org.uk/what-we-cover/) will cover you in full.
 
 {::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-guaranteed-income-calculator">
+<div class="calculator calculator--in-article js-calculator js-guaranteed-income-calculator">
   <h2 id="annuity-estimate">Estimate how much you would get from an annuity</h2>
 
   <form action="/guaranteed-income/results#annuity-estimate" method="get">

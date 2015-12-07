@@ -5,6 +5,7 @@ class TakeCashInChunksCalculatorController < ApplicationController
 
   def show
     @calculator = TakeCashInChunksCalculator.new(@pot.to_i, total_income, @chunk.to_i)
+    return render partial: 'results' if request.xhr?
   end
 
   private

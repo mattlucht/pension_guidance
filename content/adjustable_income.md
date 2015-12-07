@@ -59,7 +59,7 @@ If you’re interested in this option you might want to [get financial advice](/
 You can [leave your pot to someone](/when-you-die) when you die but they may have to pay tax on it.
 
 {::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-adjustable-income-calculator">
+<div class="calculator calculator--in-article js-calculator js-adjustable-income-calculator">
   <h2 id="adjustable-income-estimate">Estimate how much you would get from an adjustable income</h2>
 
   <form action="/adjustable-income/results#adjustable-income-estimate" method="get">

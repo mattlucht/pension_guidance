@@ -12,5 +12,7 @@ class GuaranteedIncomeCalculatorController < ApplicationController
                when 'single' then calculator.single_annuity
                when 'joint' then calculator.joint_annuity
                end
+
+    return render partial: 'results' if request.xhr?
   end
 end

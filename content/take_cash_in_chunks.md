@@ -49,7 +49,7 @@ If you have multiple pension pots, you can take chunks of cash from one and cont
 Your provider may also let you continue to pay into the pot you take cash from.
 
 {::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-take-cash-in-chunks-calculator">
+<div class="calculator calculator--in-article js-calculator js-take-cash-in-chunks-calculator">
   <h2 id="estimate-take-cash-in-chunks">Estimate how much you would get taking cash as chunks</h2>
 
   <form action="/take-cash-in-chunks/results#estimate-take-cash-in-chunks" method="get">

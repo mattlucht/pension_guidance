@@ -23,7 +23,7 @@ Your provider may charge you administration fees for managing the fund after you
 As with every investment the value of your pot could go up or down.
 
 {::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-leave-pot-untouched-calculator">
+<div class="calculator calculator--in-article js-calculator js-leave-pot-untouched-calculator">
   <h2>Estimate how much your pot could be worth in the future</h2>
 
   <form action="/leave-pot-untouched/results" method="get">
