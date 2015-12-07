@@ -7,6 +7,8 @@ description: Your money is invested in a flexi-access drawdown fund to give you 
 
 # Getting an adjustable income
 
+##Overview
+
 You can get an income from your pension pot that’s adjustable. This means you get a regular income but can change it  or take cash sums if you need to.
 
 You get 25% of your pot as a single, tax-free cash sum. The remainder is then invested to give you a regular income in your retirement, which is taxable.
@@ -20,6 +22,33 @@ You have a pension pot of £40,000. You take 25% tax free which is £10,000. You
 $E
 
 Not all pension providers offer this option. If your provider doesn’t offer it, you can transfer your pot to another provider but you might have to pay a fee.
+
+{::options parse_block_html="false" /}
+<div class="calculator calculator--in-article js-calculator js-adjustable-income-calculator">
+  <h2 id="adjustable-income-estimate">Estimate how much you would get from an adjustable income</h2>
+
+  <form action="/adjustable-income/results#adjustable-income-estimate" method="get">
+    <div class="form-group">
+      <label class="form-label" for="pot">
+        Total value of your pension pot(s)
+        <span class="form-hint">All your pension pots combined</span>
+      </label>
+      <span id="pot-a">£</span> <input aria-labelledby="pot-a" class="form-control calculator__field" type="text" id="pot" name="pot" value="0">
+    </div>
+
+    <div class="form-group">
+      <label class="form-label" for="age">
+        Your age
+      </label>
+      <span id="age-a"></span> <input aria-labelledby="age-a" class="form-control calculator__field" type="text" id="age" name="age" value="55">
+    </div>
+
+    <div class="form-group">
+      <input type="submit" class="button" value="Calculate" id="js-calculate">
+    </div>
+  </form>
+</div>
+{::options parse_block_html="true" /}
 
 ## How adjustable income works
 The provider you go with will offer you different investment funds with different risks. You pick the funds that are right for you and get a retirement income from your investments. You should think about how much you take out every year and how long you want your money to last.
@@ -57,33 +86,6 @@ You can also pay into your flexi-access fund but you won’t get tax relief on t
 If you’re interested in this option you might want to [get financial advice](/shop-around) first. You should be aware that as with every investment there’s the risk that the value of your fund can go up or down.
 
 You can [leave your pot to someone](/when-you-die) when you die but they may have to pay tax on it.
-
-{::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-calculator js-adjustable-income-calculator">
-  <h2 id="adjustable-income-estimate">Estimate how much you would get from an adjustable income</h2>
-
-  <form action="/adjustable-income/results#adjustable-income-estimate" method="get">
-    <div class="form-group">
-      <label class="form-label" for="pot">
-        Total value of your pension pot(s)
-        <span class="form-hint">All your pension pots combined</span>
-      </label>
-      <span id="pot-a">£</span> <input aria-labelledby="pot-a" class="form-control calculator__field" type="text" id="pot" name="pot" value="0">
-    </div>
-
-    <div class="form-group">
-      <label class="form-label" for="age">
-        Your age
-      </label>
-      <span id="age-a"></span> <input aria-labelledby="age-a" class="form-control calculator__field" type="text" id="age" name="age" value="55">
-    </div>
-
-    <div class="form-group">
-      <input type="submit" class="button" value="Calculate" id="js-calculate">
-    </div>
-  </form>
-</div>
-{::options parse_block_html="true" /}
 
 ## Your next steps
 

@@ -6,21 +6,11 @@ description: You can decide when you take money from your pension pot.
 
 # Leaving your whole pension pot untouched
 
+## Overview
+
 You don’t have to start taking money from your pension pot when you reach your ‘selected retirement age’ (the age you agreed with your provider to retire).
 
 You can leave the money invested, eg while you’re working. Your pension pot could grow further and give you a larger amount of money to last for a shorter amount of time.
-
-## Tax when you leave your whole pot untouched
-
-As long as your money stays in your pension pot you don’t pay tax on it. You can still pay into it up to your [annual allowance](https://www.gov.uk/tax-on-your-private-pension/annual-allowance).
-
-Whatever money you leave in your pension pot you can [pass on](/when-you-die) tax free if you die before the age of 75.
-
-## Charges and investment risk
-
-Your provider may charge you administration fees for managing the fund after your selected retirement age.
-
-As with every investment the value of your pot could go up or down.
 
 {::options parse_block_html="false" /}
 <div class="calculator calculator--in-article js-calculator js-leave-pot-untouched-calculator">
@@ -49,6 +39,19 @@ As with every investment the value of your pot could go up or down.
   </form>
 </div>
 {::options parse_block_html="true" /}
+
+## Tax when you leave your whole pot untouched
+
+As long as your money stays in your pension pot you don’t pay tax on it. You can still pay into it up to your [annual allowance](https://www.gov.uk/tax-on-your-private-pension/annual-allowance).
+
+Whatever money you leave in your pension pot you can [pass on](/when-you-die) tax free if you die before the age of 75.
+
+## Charges and investment risk
+
+Your provider may charge you administration fees for managing the fund after your selected retirement age.
+
+As with every investment the value of your pot could go up or down.
+
 
 ## Your next steps
 

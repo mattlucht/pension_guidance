@@ -7,21 +7,13 @@ description: You can cash in your whole pension pot - 75% of that money is taxab
 
 # Taking your whole pot in one go
 
+##Overview
+
 You can take your whole pot as cash in one go - 25% is tax-free, the other 75% is taxable.
 
 You pay tax when you take money from your pot. This is because when you’re paying into your pension you get [tax relief](https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief) on your contributions.
 
 Any money you receive from your pension provider will be paid to you with the tax already taken off.
-
-## Watch out for higher tax
-
-It’s important to calculate how much tax you would pay if you take your whole pot in one go.
-
-%Taking a large sum of cash from your pot can mean you pay a higher amount of tax.%
-
-Taking a large amount of cash from your pot at once could mean that you get bumped into a higher tax rate. This is because it’s added to any other income you have for that year, eg money from work. 
-
-At the end of the tax year HM Revenue and Customs will calculate how much tax you owe. It could also affect your [entitlement to any benefits](/benefits).
 
 {::options parse_block_html="false" /}
 <div class="calculator calculator--in-article js-calculator js-take-whole-pot-calculator">
@@ -49,6 +41,17 @@ At the end of the tax year HM Revenue and Customs will calculate how much tax yo
   </form>
 </div>
 {::options parse_block_html="true" /}
+
+
+## Watch out for higher tax
+
+It’s important to calculate how much tax you would pay if you take your whole pot in one go.
+
+%Taking a large sum of cash from your pot can mean you pay a higher amount of tax.%
+
+Taking a large amount of cash from your pot at once could mean that you get bumped into a higher tax rate. This is because it’s added to any other income you have for that year, eg money from work.
+
+At the end of the tax year HM Revenue and Customs will calculate how much tax you owe. It could also affect your [entitlement to any benefits](/benefits).
 
 ## Watch out for scams
 
