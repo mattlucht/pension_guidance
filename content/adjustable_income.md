@@ -24,7 +24,7 @@ $E
 Not all pension providers offer this option. If your provider doesn’t offer it, you can transfer your pot to another provider but you might have to pay a fee.
 
 {::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-calculator js-adjustable-income-calculator">
+<div class="calculator calculator--in-article calculator--adjustable-income js-calculator js-adjustable-income-calculator">
   <h2 id="adjustable-income-estimate">Estimate how much you would get from an adjustable income</h2>
 
   <form action="/adjustable-income/results#adjustable-income-estimate" method="get">

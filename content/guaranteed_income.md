@@ -16,7 +16,7 @@ You might want to use your pension pot to buy an insurance policy that gives you
 Once you’ve bought your annuity you only have a short period when you can still change your mind (in most cases 30 days). After that you can’t change the decision and your rate will be fixed.
 
 {::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-calculator js-guaranteed-income-calculator">
+<div class="calculator calculator--in-article calculator--guaranteed-income js-calculator js-guaranteed-income-calculator">
   <h2 id="annuity-estimate">Estimate how much you would get from an annuity</h2>
 
   <form action="/guaranteed-income/results#annuity-estimate" method="get">

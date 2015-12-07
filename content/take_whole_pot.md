@@ -16,7 +16,7 @@ You pay tax when you take money from your pot. This is because when you’re pay
 Any money you receive from your pension provider will be paid to you with the tax already taken off.
 
 {::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-calculator js-take-whole-pot-calculator">
+<div class="calculator calculator--in-article calculator--take-whole-pot js-calculator js-take-whole-pot-calculator">
   <h2 id="find-out-what-you-would-get-after-tax">Find out what you’d get after tax</h2>
 
   <form action="/take-whole-pot/results#find-out-what-you-would-get-after-tax" method="get">

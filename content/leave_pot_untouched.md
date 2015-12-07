@@ -13,7 +13,7 @@ You don’t have to start taking money from your pension pot when you reach your
 You can leave the money invested, eg while you’re working. Your pension pot could grow further and give you a larger amount of money to last for a shorter amount of time.
 
 {::options parse_block_html="false" /}
-<div class="calculator calculator--in-article js-calculator js-leave-pot-untouched-calculator">
+<div class="calculator calculator--in-article calculator--leave-pot-untouched js-calculator js-leave-pot-untouched-calculator">
   <h2>Estimate how much your pot could be worth in the future</h2>
 
   <form action="/leave-pot-untouched/results" method="get">
