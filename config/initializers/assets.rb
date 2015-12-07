@@ -20,6 +20,9 @@ Rails.application.config.assets.precompile += %w( apple-touch-icon-120x120.png
                                                   icon-arrow-left.png
                                                   icons/icon-pointer-2x.png
                                                   icons/icon-pointer.png
+                                                  money.png
+                                                  statepension.png
+                                                  tax.png
                                                   opengraph-image.png
                                                   1449169995_calculator.svg
                                                   pensions-guidance-ie6.css
