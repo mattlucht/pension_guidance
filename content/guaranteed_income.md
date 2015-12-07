@@ -36,21 +36,6 @@ Once you’ve bought your annuity you only have a short period when you can stil
     </div>
 
     <div class="form-group">
-      <fieldset class="inline">
-        <legend class="form-label-bold">Annuity type</legend>
-
-        <label for="annuity-type-single" class="block-label">
-          <input id="annuity-type-single" class="calculator__field--radio" type="radio" name="annuity_type" value="single" checked="checked">
-          Single
-        </label>
-        <label for="annuity-type-joint" class="block-label">
-          <input id="annuity-type-joint" class="calculator__field--radio" type="radio" name="annuity_type" value="joint">
-          Joint
-        </label>
-      </fieldset>
-    </div>
-
-    <div class="form-group">
       <input type="submit" class="button" value="Calculate" id="js-calculate">
     </div>
   </form>

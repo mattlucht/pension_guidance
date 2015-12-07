@@ -1,12 +1,12 @@
 <p>
   Based on what you’ve told us, if you take your <%= format_currency(@pot) %>
-  pension pot as an annuity, you could receive:
+  pension pot as an annuity, you could get:
 
-  <strong class="calculator__result__number"><%= format_currency(@tax_free_lump_sum) %> tax-free</strong>
+  <strong class="calculator__result__number"><%= number_to_currency(@tax_free_lump_sum, precision: 0) %> tax free</strong>
 
   and a:
 
-  <strong class="calculator__result__number"><%= format_currency(@annuity) %> guaranteed annual taxable income, for the rest of your life</strong>
+  <strong class="calculator__result__number"><%= number_to_currency(@annuity, precision: 0) %> guaranteed annual taxable income, for the rest of your life</strong>
 </p>
 
 <h2>Things to note</h2>
