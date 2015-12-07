@@ -23,7 +23,6 @@ Once you’ve bought your annuity you only have a short period when you can stil
     <div class="form-group">
       <label class="form-label" for="pot">
         Total value of your pension pot(s)
-        <span class="form-hint">All your pension pots combined</span>
       </label>
       <span id="pot-a">£</span> <input aria-labelledby="pot-a" class="form-control calculator__field" type="text" id="pot" name="pot" value="0">
     </div>

@@ -25,13 +25,12 @@ Not all pension providers offer this option. If your provider doesn’t offer it
 
 {::options parse_block_html="false" /}
 <div class="calculator calculator--in-article calculator--adjustable-income js-calculator js-adjustable-income-calculator">
-  <h2 id="adjustable-income-estimate">Estimate how much you would get from an adjustable income</h2>
+  <h2 id="adjustable-income-estimate">Estimate how much you would get</h2>
 
   <form action="/adjustable-income/results#adjustable-income-estimate" method="get">
     <div class="form-group">
       <label class="form-label" for="pot">
         Total value of your pension pot(s)
-        <span class="form-hint">All your pension pots combined</span>
       </label>
       <span id="pot-a">£</span> <input aria-labelledby="pot-a" class="form-control calculator__field" type="text" id="pot" name="pot" value="0">
     </div>
@@ -59,7 +58,7 @@ Your provider is likely to charge you for running your funds and whenever you ge
 
 This option is also known as ‘flexi-access drawdown’.
 
-## Tax with adjustable income
+## Tax
 The income you get from the fund is taxable. Your provider will pay you the income with any tax due already taken off.
 
 {: .info-notice--adjustable-income}
@@ -82,7 +81,7 @@ Once you start taking an income from your flexi-access fund this allowance goes 
 
 You can also pay into your flexi-access fund but you won’t get tax relief on these payments.
 
-## Getting financial advice for adjustable income
+## Getting financial advice
 If you’re interested in this option you might want to get financial advice first. You should be aware that as with every investment there’s the risk that the value of your fund can go up or down.
 
 You can leave your pot to someone when you die but they may have to pay tax on it.

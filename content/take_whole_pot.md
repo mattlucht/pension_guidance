@@ -22,7 +22,7 @@ Any money you receive from your pension provider will be paid to you with the ta
   <form action="/take-whole-pot/results#find-out-what-you-would-get-after-tax" method="get">
     <div class="form-group">
       <label class="form-label" for="pot">
-        Total pension pot value
+        Total value of your pension pot(s)
       </label>
       <span id="pot-a">£</span> <input aria-labelledby="pot-a" class="form-control calculator__field" type="text" id="pot" name="pot">
     </div>

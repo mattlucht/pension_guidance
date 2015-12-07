@@ -41,16 +41,15 @@ Pension providers may describe this option as ‘Uncrystallised Funds Pension Lu
   <form action="/take-cash-in-chunks/results#estimate-take-cash-in-chunks" method="get">
     <div class="form-group">
       <label class="form-label" for="pot">
-        Pot value
-        <span class="form-hint">All your pension pots combined</span>
+        Total value of your pension pot(s)
       </label>
       <span id="pot-a">£</span> <input aria-labelledby="pot-a" class="form-control calculator__field" type="text" id="pot" name="pot">
     </div>
 
     <div class="form-group">
       <label class="form-label" for="income">
-        Other annual income
-        <span class="form-hint">Money from work, savings and benefits</span>
+        Income for the year
+        <span class="form-hint">Includes your salary, savings, benefits and State Pension payments</span>
       </label>
       <span id="income-a">£</span> <input aria-labelledby="income-a" class="form-control calculator__field" type="text" id="income" name="income">
     </div>

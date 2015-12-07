@@ -22,7 +22,7 @@ You can leave the money invested, eg while you’re working. Your pension pot co
         Total value of your pension pot(s)
       </label>
       <span class="input-label" id="saving-label">£</span>
-      <input aria-describedby="pot-label" type="text" id="pot" name="pot">
+      <input aria-describedby="pot-label" class="form-control calculator__field"  type="text" id="pot" name="pot">
     </div>
 
     <div class="form-group">
@@ -30,7 +30,7 @@ You can leave the money invested, eg while you’re working. Your pension pot co
         How much you could contribute each month
       </label>
       <span class="input-label" id="saving-label">£</span>
-      <input aria-describedby="saving-label" type="text" id="saving" name="saving">
+      <input aria-describedby="saving-label" class="form-control calculator__field"  type="text" id="saving" name="saving">
     </div>
 
     <div class="form-group">
