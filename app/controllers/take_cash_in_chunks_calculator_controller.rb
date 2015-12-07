@@ -7,5 +7,7 @@ class TakeCashInChunksCalculatorController < ApplicationController
     @chunk = params[:chunk]
 
     @calculator = TakeCashInChunksCalculator.new(@pot.to_i, @income.to_i, @chunk.to_i)
+
+    return render partial: 'results' if request.xhr?
   end
 end

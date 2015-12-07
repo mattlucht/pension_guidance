@@ -44,7 +44,7 @@ Pension providers may describe this option as ‘Uncrystallised Funds Pension Lu
         Pot value
         <span class="form-hint">All your pension pots combined</span>
       </label>
-      <span id="pot-a">£</span> <input aria-labelledby="pot-a" class="form-control calculator__field" type="text" id="pot" name="pot" value="0">
+      <span id="pot-a">£</span> <input aria-labelledby="pot-a" class="form-control calculator__field" type="text" id="pot" name="pot">
     </div>
 
     <div class="form-group">
@@ -52,26 +52,14 @@ Pension providers may describe this option as ‘Uncrystallised Funds Pension Lu
         Other annual income
         <span class="form-hint">Money from work, savings and benefits</span>
       </label>
-      <span id="income-a">£</span> <input aria-labelledby="income-a" class="form-control calculator__field" type="text" id="income" name="income" value="0">
-    </div>
-
-    <div class="form-group">
-      <label class="form-label" for="pension">
-        State Pension
-        <span class="form-hint">The most you can currently get is £115.95 per week</span>
-      </label>
-      <span id="pension-a">£</span> <input aria-labelledby="pension-a" class="form-control calculator__field--small" type="text" id="pension" name="pension" value="0">
-      <select class="form-control calculator__field--frequency-select" name="pension_frequency">
-        <option value="weekly" selected>Weekly</option>
-        <option value="annually" >Annually</option>
-      </select>
+      <span id="income-a">£</span> <input aria-labelledby="income-a" class="form-control calculator__field" type="text" id="income" name="income">
     </div>
 
     <div class="form-group">
       <label class="form-label" for="chunk">
-        How much cash would you want to take from your pot initially?
+        How much cash do you want to take upfront?
       </label>
-      <span id="chunk-a">£</span> <input aria-labelledby="chunk-a" class="form-control calculator__field" type="text" id="chunk" name="chunk" value="0">
+      <span id="chunk-a">£</span> <input aria-labelledby="chunk-a" class="form-control calculator__field" type="text" id="chunk" name="chunk">
     </div>
 
     <div class="form-group">
