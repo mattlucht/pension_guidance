@@ -1,6 +1,6 @@
 class AdjustableIncomeCalculator
-  # http://www.geoba.se/country.php?cc=GB&year=2015
-  LIFE_EXPECTANCY = 81
+  # 81 according to http://www.geoba.se/country.php?cc=GB&year=2015
+  LIFE_EXPECTANCY = 86
   TAX_FREE_POT_PORTION = 0.25
 
   attr_accessor :pot, :age

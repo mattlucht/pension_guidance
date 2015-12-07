@@ -7,7 +7,7 @@ RSpec.describe AdjustableIncomeCalculator do
   subject(:calculator) { described_class.new(pot, age) }
 
   specify { expect(calculator.tax_free_lump_sum).to eq(50_000) }
-  specify { expect(calculator.income).to eq(5_769.23) }
+  specify { expect(calculator.income).to eq(4838.71) }
 
   context 'when adjusting the desired duration of income' do
     let(:ending_age) { 90 }
