@@ -2,7 +2,7 @@
 
 <a class="link-back" href="/take-cash-in-chunks">Back to description</a>
 
-<h1>Taking your whole pot in one go</h1>
+<h1>Taking cash in chunks</h1>
 
 <div class="calculator">
   <h2 id="estimate-take-cash-in-chunks">Taking cash in chunks</h2>
@@ -25,20 +25,8 @@
     </div>
 
     <div class="form-group">
-      <label class="form-label" for="pension">
-        State Pension
-        <span class="form-hint">The most you can currently get is £115.95 per week</span>
-      </label>
-      <span id="pension-a">£</span> <input aria-labelledby="pension-a" class="form-control calculator__field--small" type="text" id="pension" name="pension" value="<%= @pension %>">
-      <select class="form-control calculator__field--frequency-select" name="pension_frequency">
-        <option value="weekly" <%= 'selected' if @pension_frequency == 'weekly' %>>Weekly</option>
-        <option value="annually" <%= 'selected' if @pension_frequency == 'annually' %>>Annually</option>
-      </select>
-    </div>
-
-    <div class="form-group">
       <label class="form-label" for="chunk">
-        How much cash would you want to take from your pot initially?
+        How much cash do you want to take upfront?
       </label>
       <span id="chunk-a">£</span> <input aria-labelledby="chunk-a" class="form-control calculator__field" type="text" id="chunk" name="chunk" value="<%= @chunk %>">
     </div>
@@ -47,9 +35,9 @@
       <input type="submit" class="button" value="Calculate" id="js-calculate">
     </div>
   </form>
-</div>
 
   <%= render partial: 'results' %>
+
 </div>
 
 <a class="link-back" href="/take-cash-in-chunks">Back to description</a>
