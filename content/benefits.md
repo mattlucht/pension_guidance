@@ -2,7 +2,7 @@
 description: How taking your pension can affect your benefits. Usually, the greater your income, the fewer benefits you’ll get.
 ---
 
-#Benefits and care costs
+#Benefits entitlement
 
 The money you take from your pension pot could affect your eligibility for some benefits and how much you might have to pay towards care costs later in life.
 

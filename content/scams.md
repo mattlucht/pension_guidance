@@ -2,7 +2,7 @@
 description: How to spot the signs of a pension scam, how to protect yourself, and what to do if you’ve been targeted.
 ---
 
-# How to avoid a pension scam
+# How to avoid a scam
 
 A pension scam – when someone tries to con you out of your pension money – will often start by someone contacting you unexpectedly about:
 

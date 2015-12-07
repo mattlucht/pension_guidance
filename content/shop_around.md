@@ -1,9 +1,9 @@
 ---
-label: Shop around for the best deal
+label: Shop around and compare providers
 description: When deciding what to do with your pension money in retirement, remember to get financial advice and compare pension products and providers.
 ---
 
-#How to shop around for the best deal
+#Shop around and compare providers
 
 Whatever you decide to do with your pension pot you don’t have to stay with your current pension provider.
 
@@ -76,7 +76,7 @@ The more information you have prepared when you meet with one, the more you will
 
 Check your adviser is authorised by the Financial Conduct Authority (FCA) before you pay for advice. You can check the [FCA register](http://www.fsa.gov.uk/register/home.do) to make sure.
 
-The Money Advice Service has a [retirement adviser directory](https://directory.moneyadviceservice.org.uk/en) to help you find an adviser. 
+The Money Advice Service has a [retirement adviser directory](https://directory.moneyadviceservice.org.uk/en) to help you find an adviser.
 
 ###What a financial adviser will do
 
