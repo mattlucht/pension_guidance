@@ -70,6 +70,7 @@ You pay tax on income from an annuity, just like you do on your salary.  You may
 
 If the insurer you bought your annuity with goes bust the Financial Services Compensation Scheme will cover you in full.
 
+<div class="next-steps next-steps--guaranteed-income js-next-steps">
 ## Next steps
 
 If you’re interested in buying an annuity you can:
@@ -79,3 +80,4 @@ If you’re interested in buying an annuity you can:
 - make sure you know [how much tax you’ll pay](/tax) on your annuity income
 - check with your provider if the annuity they offer is right for you, eg if you’re in poor health you could get a better rate
 - ask your provider if your pension pot has any special features that could mean you get a better deal, eg a guaranteed annuity rate
+</div>

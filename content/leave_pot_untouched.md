@@ -52,7 +52,7 @@ Your provider may charge you administration fees for managing the fund after you
 
 As with every investment the value of your pot could go up or down.
 
-
+<div class="next-steps next-steps--leave-pot-untouched js-next-steps">
 ## Next steps
 
 If you want to leave your pot untouched for a while, ask your pension provider the following questions:
@@ -64,3 +64,4 @@ If you want to leave your pot untouched for a while, ask your pension provider t
 - How much can I still pay in?
 - Does my pot have any special features that could mean I get a better deal, eg a guaranteed annuity rate?
 - Do you have up-to-date details of the person I want to leave my pot to (my ‘beneficiary’)?
+</div>

@@ -29,10 +29,14 @@ You use £20,000 to buy an annuity. This gives you a taxable income for the rest
 You also put £25,000 into a drawdown fund to get an adjustable income and take out about £5,000 a year for about 5 years.
 $E
 
-## Your next steps
+{::options parse_block_html="false" /}
+{::options parse_block_html="true" /}
+<div class="next-steps next-steps--mix-options js-next-steps">
+## Next steps
 
 If you’re interested in mixing your options:
 
 - look at all options to see which ones are right for you
 - shop around - you don’t have to buy a product from your current provider
 - [get financial advice](/shop-around#getting-financial-advice) before making a decision
+</div>

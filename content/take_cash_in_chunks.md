@@ -87,6 +87,7 @@ If you have multiple pension pots, you can take chunks of cash from one and cont
 
 Your provider may also let you continue to pay into the pot you take cash from.
 
+<div class="next-steps next-steps--take-cash-in-chunks js-next-steps">
 ## Next steps
 
 Here are some next steps if you’re interested in taking cash in chunks:
@@ -94,3 +95,4 @@ Here are some next steps if you’re interested in taking cash in chunks:
 - ask your current provider if they offer the option and what they charge in fees - if they don’t offer it, you can transfer your pot but you might be charged a fee
 - check if your pot has any special features that could mean you get a better deal, eg a guaranteed annuity rate
 - make sure you know [how much tax](/tax) you’ll pay on any money you’re planning to take out
+</div>
