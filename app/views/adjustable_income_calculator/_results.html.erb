@@ -52,13 +52,11 @@
   <li>You might want to get financial advice before choosing this option</li>
 </ol>
 
-<% content_for(:after_script) do %>
-  <script>
-    $(function() {
-      $('#adjust-controls').hide();
-      $('#adjust').on('click', function() {
-        $('#adjust-controls').toggle();
-      })
+<script>
+  $(function() {
+    $('#adjust-controls').hide();
+    $('#adjust').on('click', function() {
+      $('#adjust-controls').toggle();
     })
-  </script>
-<% end %>
+  })
+</script>
