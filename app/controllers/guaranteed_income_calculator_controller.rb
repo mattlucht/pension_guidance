@@ -4,7 +4,7 @@ class GuaranteedIncomeCalculatorController < ApplicationController
   def show
     @pot = params[:pot]
     @age = params[:age]
-    @annuity_type = params[:annuity_type]
+    @annuity_type = params[:annuity_type] || 'single'
 
     calculator = GuaranteedIncomeCalculator.new(@pot.to_i, @age.to_i)
     @tax_free_lump_sum = calculator.tax_free_lump_sum
@@ -12,7 +12,6 @@ class GuaranteedIncomeCalculatorController < ApplicationController
                when 'single' then calculator.single_annuity
                when 'joint' then calculator.joint_annuity
                end
-
     return render partial: 'results' if request.xhr?
   end
 end
