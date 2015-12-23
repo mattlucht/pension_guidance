@@ -1,6 +1,7 @@
 class GuidesController < ApplicationController
   layout 'guides'
   helper_method :journey_navigation
+  helper_method :hide_elsewhere_on_pension_wise?
   before_action :set_breadcrumbs
 
   NON_JOURNEY_RELATED_GUIDE_IDS = %w(
@@ -75,6 +76,10 @@ class GuidesController < ApplicationController
 
   def journey_navigation
     JourneyNavigation.new(JourneyTree.instance.tree, params[:id])
+  end
+
+  def hide_elsewhere_on_pension_wise?
+    true if CATEGORY_PAGE_IDS.include? params[:id]
   end
 
   def set_breadcrumbs
