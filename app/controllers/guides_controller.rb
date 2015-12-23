@@ -18,6 +18,14 @@ class GuidesController < ApplicationController
     scams
   )
 
+  CATEGORY_PAGE_IDS = %w(
+    category-pension-details
+    category-taking-your-money
+    category-illness-death
+    category-tax
+    category-more
+  )
+
   def show
     @guide = decorate(find(params[:id]))
     @related_guides = decorate(related_guides)
